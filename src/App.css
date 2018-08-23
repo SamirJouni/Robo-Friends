@@ -5,6 +5,12 @@
 	src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
 	}
 
-	h1 {
+	.roboTitle {
 		font-family: 'SEGA LOGO FONT';
+		font-size: 4rem;
+		font-weight: 200;
+		color: #0afff7;
+	}
+	.bg-light-green-custom {
+		background: #65f1bd;
 	}
