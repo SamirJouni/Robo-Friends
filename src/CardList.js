@@ -5,7 +5,7 @@ const CardList = ({robots}) => {
 
 
 	return (
-		<div>
+		<div style={{ height: '55vh', width:'101vw', overflowY: 'scroll', paddingRight:'1vw'}}>
 			{
 				robots.map((user) => {
 					return	<Card
