@@ -35,7 +35,7 @@ class App extends Component {
 
 		if (this.state.robots.length === 0) {
 
-			return <h1 className='tc code f1 dark-pink'>Loading...</h1>
+			return <h1 className='tc roboTitle'>Loading...</h1>
 		} else {
 
 			return (
