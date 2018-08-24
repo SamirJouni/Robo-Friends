@@ -21,7 +21,7 @@ class App extends Component {
 			.then(users => this.setState({ robots: users }));
 	}
 
-	onSearchChangeState = event => {
+	handleSearch = event => {
 		this.setState({ searchField: event.target.value });
 	};
 
@@ -40,7 +40,7 @@ class App extends Component {
 			return (
 				<div className="tc">
 					<h1 className="roboTitle">RoboFriends</h1>
-					<SearchBox searchChangeState={this.onSearchChangeState} />
+					<SearchBox onSearch={this.handleSearch} />
 					<Scroll>
 						<CardList robots={filteredRobots} />
 					</Scroll>

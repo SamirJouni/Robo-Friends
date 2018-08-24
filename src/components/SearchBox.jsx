@@ -1,7 +1,8 @@
 import React from "react";
 
-const SearchBox = ({ searchfield, searchChangeState }) => {
+const SearchBox = ({ onSearch }) => {
 	const placeholder = "Search Robots";
+
 
 	return (
 		<div className="pa2 ">
@@ -11,7 +12,7 @@ const SearchBox = ({ searchfield, searchChangeState }) => {
 				placeholder={placeholder}
 				onFocus={event => (event.target.placeholder = "")}
 				onBlur={event => (event.target.placeholder = placeholder)}
-				onChange={searchChangeState}
+				onChange={onSearch}
 			/>
 		</div>
 	);
