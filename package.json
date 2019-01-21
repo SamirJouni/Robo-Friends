@@ -4,10 +4,10 @@
   "private": true,
   "homepage": "https://samirjouni.github.io/Robo-Friends/",
   "dependencies": {
-    "gh-pages": "^1.2.0",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-scripts": "^2.1.1",
+    "gh-pages": "^2.0.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-scripts": "^2.1.3",
     "tachyons": "^4.11.1",
     "uuid": "^3.3.2"
   },
