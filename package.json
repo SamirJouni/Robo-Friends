@@ -4,9 +4,9 @@
   "private": true,
   "homepage": "https://samirjouni.github.io/Robo-Friends/",
   "dependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
-    "react-scripts": "^2.1.5",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-scripts": "^2.1.8",
     "tachyons": "^4.11.1",
     "uuid": "^3.3.2"
   },
