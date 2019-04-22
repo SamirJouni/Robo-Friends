@@ -1,16 +1,18 @@
 {
-  "main.css": "/Robo-Friends/static/css/main.b39d4199.chunk.css",
-  "main.js": "/Robo-Friends/static/js/main.3bf1c2a4.chunk.js",
-  "main.js.map": "/Robo-Friends/static/js/main.3bf1c2a4.chunk.js.map",
-  "runtime~main.js": "/Robo-Friends/static/js/runtime~main.7b38a86d.js",
-  "runtime~main.js.map": "/Robo-Friends/static/js/runtime~main.7b38a86d.js.map",
-  "static/css/2.4a6be9b0.chunk.css": "/Robo-Friends/static/css/2.4a6be9b0.chunk.css",
-  "static/js/2.17cd0e91.chunk.js": "/Robo-Friends/static/js/2.17cd0e91.chunk.js",
-  "static/js/2.17cd0e91.chunk.js.map": "/Robo-Friends/static/js/2.17cd0e91.chunk.js.map",
-  "index.html": "/Robo-Friends/index.html",
-  "precache-manifest.cd1df1aa146a99a689b62e5f615d21ba.js": "/Robo-Friends/precache-manifest.cd1df1aa146a99a689b62e5f615d21ba.js",
-  "service-worker.js": "/Robo-Friends/service-worker.js",
-  "static/css/2.4a6be9b0.chunk.css.map": "/Robo-Friends/static/css/2.4a6be9b0.chunk.css.map",
-  "static/css/main.b39d4199.chunk.css.map": "/Robo-Friends/static/css/main.b39d4199.chunk.css.map",
-  "static/media/App.css": "/Robo-Friends/static/media/SEGA.12a3db8b.woff"
+  "files": {
+    "main.css": "/Robo-Friends/static/css/main.6f9b4115.chunk.css",
+    "main.js": "/Robo-Friends/static/js/main.8a32dcb1.chunk.js",
+    "main.js.map": "/Robo-Friends/static/js/main.8a32dcb1.chunk.js.map",
+    "runtime~main.js": "/Robo-Friends/static/js/runtime~main.a23543f7.js",
+    "runtime~main.js.map": "/Robo-Friends/static/js/runtime~main.a23543f7.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/Robo-Friends/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.baf3c1c8.chunk.js": "/Robo-Friends/static/js/2.baf3c1c8.chunk.js",
+    "static/js/2.baf3c1c8.chunk.js.map": "/Robo-Friends/static/js/2.baf3c1c8.chunk.js.map",
+    "index.html": "/Robo-Friends/index.html",
+    "precache-manifest.fd03fdb9cf3e343bbfe37dc6c42b9293.js": "/Robo-Friends/precache-manifest.fd03fdb9cf3e343bbfe37dc6c42b9293.js",
+    "service-worker.js": "/Robo-Friends/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/Robo-Friends/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.6f9b4115.chunk.css.map": "/Robo-Friends/static/css/main.6f9b4115.chunk.css.map",
+    "static/media/App.css": "/Robo-Friends/static/media/SEGA.12a3db8b.woff"
+  }
 }
