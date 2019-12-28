@@ -2,5 +2,5 @@ body {
   margin: 0;
   padding-top: 3.5rem;
   font-family: sans-serif;
-  background: linear-gradient(90deg, rgb(14, 226, 205), rgb(34, 68, 206));
+  background: linear-gradient(to left, rgb(255, 170, 85), rgb(255, 111, 111));
 }
